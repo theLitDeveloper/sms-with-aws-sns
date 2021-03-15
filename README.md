@@ -21,4 +21,4 @@ node app.js
 ```
 
 ## License
-Released under MIT License
+Released under [MIT License](LICENSE)
